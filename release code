@@ -1,0 +1,31 @@
+Current release
+
+HACKRTRON v0.2 Release Notes
+
+We are excited to announce the release of HACKRTRON version 0.2! This update focuses on stability improvements, performance optimizations, and laying the groundwork for more advanced automation and execution features.
+
+Enhanced Execution Engine: Improved process management for launching and monitoring external software and scripts seamlessly.
+
+Platform Compatibility: Smoother cross-platform handling between Windows, macOS, and Linux systems.
+
+Optimized Resource Management: Reduced background CPU and memory usage during runtime.
+
+Bug Fixes: Resolved minor initialization crashes and improved error logging for easier debugging.
+
+# Example upgrade command (adjust based on your package manager)
+npm install hackrtron@0.2.0
+# OR
+pip install hackrtron==0.2.0
+
+
+
+Download & Installation
+
+You can download the latest binaries and source code directly from this GitHub release:
+
+Scroll down to the Assets section below.
+
+Download the appropriate file for your operating system.
+
+Extract the files and run the main executable
+
